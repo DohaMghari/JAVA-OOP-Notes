@@ -21,3 +21,7 @@ Object-oriented programming contains many significant features, such as **encaps
    - exemple :  A person at the same time can have different characteristic. Like a man at the same time is a father, a husband, an employee. So the same person posses different behaviour in different situations. 
 
 - #### abstraction
+    Abstraction is the process of separating ideas from specific instances and thus, develop classes in terms of their own functionality,
+    instead of their implementation details.
+    The abstraction technique aims to **separate the implementation details of a class from its behavior.**
+
