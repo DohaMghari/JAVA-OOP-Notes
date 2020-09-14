@@ -32,3 +32,10 @@ Object-oriented programming contains many significant features, such as **encaps
     parameters.
 - ### overriding : 
     Method overridings defined as the case when a child class **redefines the same method as a parent class**,Overridden methods must have **the same name, argument list, and return type.**
+   ##  the difference between an Interface and an Abstract class
+ - All methods **in an interface are implicitly abstract**. On the other hand, **an abstract class may contain both abstract and nonabstract methods**.
+ - A class may implement a number of Interfaces, but can extend only one abstract class.
+ - Abstract classes can implement interfaces without even providing the implementation of interface methods.
+ - Variables declared in a Java interface is by default final. An abstract class may contain non-final variables
+
+ 
