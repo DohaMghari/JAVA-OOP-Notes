@@ -24,4 +24,11 @@ Object-oriented programming contains many significant features, such as **encaps
     Abstraction is the process of separating ideas from specific instances and thus, develop classes in terms of their own functionality,
     instead of their implementation details.
     The abstraction technique aims to **separate the implementation details of a class from its behavior.**
+    
+## Overriding and Overloading in Java
 
+- ### overloading : 
+    Method overloading in Java occurs when two or more methods in the same class have the exact same name, but different
+    parameters.
+- ### overriding : 
+    Method overridings defined as the case when a child class **redefines the same method as a parent class**,Overridden methods must have **the same name, argument list, and return type.**
