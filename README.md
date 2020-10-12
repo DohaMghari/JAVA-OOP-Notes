@@ -37,5 +37,18 @@ Object-oriented programming contains many significant features, such as **encaps
  - A class may implement a number of Interfaces, but can extend only one abstract class.
  - Abstract classes can implement interfaces without even providing the implementation of interface methods.
  - Variables declared in a Java interface is by default final. An abstract class may contain non-final variables
+ 
+   ##  Process vs Threads
+Process = Multiple applications running simultaneously in the server, PC or Mac
+Thread =Multiple tasks running within a process
+   ## Explain different ways of creating a thread. Which one i think is better
+   There are three ways that can be used in order for a Thread to be created:
+- A class may extend the Thread class.
+- A class may implement the Runnable interface.
+- An application can use the Executor framework, in order to create a thread pool.
+
+The Runnable interface is preferred, as it does not require an object to inherit the Thread class. In case your application design
+requires multiple inheritance, only interfaces can help you. Also, the thread pool is very efficient and can be implemented and
+used very easily.
 
  
