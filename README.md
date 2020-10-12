@@ -53,4 +53,31 @@ The Runnable interface is preferred, as it does not require an object to inherit
 requires multiple inheritance, only interfaces can help you. Also, the thread pool is very efficient and can be implemented and
 used very easily.
 
- 
+ ## Java concepts an entry-level junior should know:
+
+   - Basic OOP principles
+   - Abstraction, encapsulation, inheritance, polymorphism, and others.
+   - SOLID principles and the way they apply to Java.
+   - Knowing how to manage interfaces, classes, and objects, understand the difference between these elements.
+   - A deeper knowledge of Object methods and their top applications.
+   - Hierarchy of collections and exceptions.
+   - Basics multithreading, understanding the concepts of threads and processes.
+   - Superficial command of lambdas, streams, and functional interfaces.
+  ## Java concepts an experienced junior should know:
+
+   - Basic understanding of pile and stack
+   - Speed, memory consumption, structure, the garbage collector (decent command).
+   - Collections, processing null-statements using HashMap and TreeMap.
+   - Handling generics, using abstract class constructors, “IS-A” inheritance.
+   - Methods, wrapped classes, hash-code, equals, boxing-unboxing.
+   - Basic multithreading concepts, understanding how to create a safe thread.
+   - Exception handling.
+   
+   ##  Java concepts a confident junior should know:
+
+   - Basic understanding of NIO and I/O.
+   - Data and period handling.
+   - A deeper understanding of multi-threading, handling main concurrent classes, understanding which elements the synchronization is centered around.
+   - Understanding main garbage collector strategies.
+   - Inheritance of exceptions.
+   - Where to find info about classes and methods in runtime.
