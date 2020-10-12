@@ -40,7 +40,9 @@ Object-oriented programming contains many significant features, such as **encaps
  
    ##  Process vs Threads
 Process = Multiple applications running simultaneously in the server, PC or Mac
+
 Thread =Multiple tasks running within a process
+
    ## Explain different ways of creating a thread. Which one i think is better
    There are three ways that can be used in order for a Thread to be created:
 - A class may extend the Thread class.
