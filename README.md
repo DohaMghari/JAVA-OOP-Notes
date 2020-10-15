@@ -1,6 +1,6 @@
 # JAVA-OOP-Notes
 
-This repository containes my personal notes on the **JAVA OOP** , this is not a course to explain but it can be very usefull as a reminder of principles of java and Object Oriented Programming. 
+This repository containes my personal notes on the **JAVA OOP**,**important concepts** and some ideas about the java software engineer, this is not a course to explain but it can be very usefull as a reminder of principles of java and Object Oriented Programming. 
 
 ## OOP
 Object-oriented programming contains many significant features, such as **encapsulation, inheritance, polymorphism and abstraction**
