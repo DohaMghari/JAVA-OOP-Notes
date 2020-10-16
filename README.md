@@ -38,6 +38,12 @@ Object-oriented programming contains many significant features, such as **encaps
  - Abstract classes can implement interfaces without even providing the implementation of interface methods.
  - Variables declared in a Java interface is by default final. An abstract class may contain non-final variables
  
+    ##   the difference between lists and sets in Java?
+
+They difference in how their items’ ordering and uniqueness.
+- **Lists are ordered and allow duplicate values.**
+- **Sets are unordered and do not allow duplicate elements.**
+ 
    ##  Process vs Threads
 Process = Multiple applications running simultaneously in the server, PC or Mac
 
